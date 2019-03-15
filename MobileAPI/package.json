@@ -1,0 +1,25 @@
+{
+  "name": "mobileapis",
+  "version": "1.0.0",
+  "description": "REST API for mobile apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mobile",
+    "RESTAPIs",
+    "nodejs"
+  ],
+  "author": "Ritesh Tailor",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.4",
+    "express": "^4.16.4",
+    "express-session": "^1.15.6",
+    "joi": "^14.3.1",
+    "mongoose": "^5.4.19",
+    "nodemon": "^1.18.10"
+  }
+}
